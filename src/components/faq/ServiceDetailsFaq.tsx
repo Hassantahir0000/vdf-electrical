@@ -19,36 +19,35 @@ const service_faq_content: DataType = {
   faq_data: [
     {
       id: 'One',
-      question: `What is the design process for branding?`,
-      answer: `Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying conse quences lalin karar or one avoids a pain that produces no resultant pleasure.`,
+      question: `What electrical services do you offer?`,
+      answer: `We provide a full range of domestic, commercial, and industrial electrical services, including installations, rewiring, inspections, EV chargers, solar panel systems, and routine maintenance.`,
     },
     {
       id: 'Two',
-      question: `What services does your agency offer?`,
-      answer: `Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying conse quences lalin karar or one avoids a pain that produces no resultant pleasure.`,
+      question: `Are you certified and insured electricians?`,
+      answer: `Yes, all of our electricians are fully qualified, NAPIT approved, and insured to carry out electrical work in accordance with UK regulations and safety standards.`,
     },
     {
       id: 'Three',
-      question: `How do you approach a new project?`,
-      answer: `Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying conse quences lalin karar or one avoids a pain that produces no resultant pleasure.`,
+      question: `Do you offer emergency electrical services?`,
+      answer: `Absolutely. We provide 24/7 emergency call-out services for urgent electrical issues across Glasgow and surrounding areas.`,
     },
     {
       id: 'Four',
-      question: `How do you handle revisions or changes to a project?`,
-      answer: `Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying conse quences lalin karar or one avoids a pain that produces no resultant pleasure.`,
+      question: `Can you install renewable energy systems like solar panels?`,
+      answer: `Yes, we specialize in the design and installation of solar PV systems, battery storage, and other renewable energy solutions for both homes and businesses.`,
     },
   ],
-  title: `Others Services List`,
-  description: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools and expertise to elevate your online presence.`,
+  title: `Frequently Asked Questions`,
+  description: `Find answers to the most common queries about our electrical services, certifications, and renewable energy solutions.`,
   features: [
-    `Web Design & Development`,
-    `Digital Marketing`,
-    `Android & IOS Development`,
-    `Digital Business Development`,
-    `Web Design & Development`,
-    `Digital Marketing`,
+    `Domestic & Commercial Electrical Services`,
+    `Certified & Insured Electricians`,
+    `Emergency Repairs & Fault Diagnosis`,
+    `Renewable Energy Installations (Solar & EV)`,
   ]
-}
+};
+
 const {
   faq_data,
   title,

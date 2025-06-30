@@ -69,11 +69,11 @@ const index = () => {
         <div id="smooth-content">
           <main>
             <HeroHomeFour data={mainData}/>
-            <div style={{marginTop:"0rem"}}>  
               <ServiceHomeThree {...service_content}/>
-             </div>  
-           <HeroServiceDetails data={heroData} /> 
-            <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
+              <div style={{marginBottom:"6rem"}}>
+                <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
+              </div>
+             <HeroServiceDetails data={heroData} />
             <ServiceDetailsFaq />
             <AboutHomeFour />
           </main>
@@ -83,5 +83,6 @@ const index = () => {
     </Wrapper>
   );
 };
+
 
 export default index;

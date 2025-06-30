@@ -68,9 +68,16 @@ const ContactArea = () => {
             </div>
             <div className="cs_contact_section_2 anim_div_ShowRightSide">
               <div className="cs_google_map cs_bg" data-src="assets/img/map_img.png">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96652.27317354927!2d-74.33557928194516!3d40.79756494697628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a82f1352d0dd%3A0x81d4f72c4435aab5!2sTroy+Meadows+Wetlands!5e0!3m2!1sen!2sbd!4v1563075599994!5m2!1sen!2sbd"
-                  allowFullScreen={true}></iframe>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22429.18594828976!2d-4.276977949999999!3d55.86423745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488845563aa20f59%3A0xb2c2256e1dc68a19!2sGlasgow%2C%20UK!5e0!3m2!1sen!2suk!4v1722062345678!5m2!1sen!2suk"
+                width="100%"
+                height="450"
+                style={{ border: 0 }}
+                allowFullScreen={true}
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+
               </div>
               <div className="cs_height_50 cs_height_lg_50"></div>
               <div className="row">
