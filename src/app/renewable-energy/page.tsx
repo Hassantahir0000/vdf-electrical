@@ -10,10 +10,10 @@ import HeroServiceDetails from '@/components/hero/HeroServiceDetails';
 import DetailsBanner from '@/components/details/DetailsBanner';
 import ServiceDetailsFaq from '@/components/faq/ServiceDetailsFaq';
 import ServiceHomeThree from '@/components/service/ServiceHomeThree';
-import services_exploring from "@/assets/img/services_exploring.jpg";
+import services_exploring from "@/assets/img/new/a4.jpg";
 import sound_box_icon from "@/assets/img/sound_box_icon.jpg";
-import service_slider_1 from "@/assets/img/new/about2.jpg";
-import service_slider_2 from  "@/assets/img/new/about.jpg";
+import service_slider_1 from "@/assets/img/new/r1.jpg";
+import service_slider_2 from  "@/assets/img/new/r2.jpg";
 import hero_img from '@/assets/img/new/renewable.jpg';
 import HeroHomeFour from '@/components/hero/HeroHomeFour';
 
@@ -38,7 +38,7 @@ const heroData = {
     "Air Source Heat Pumps",
     "Solar Panels"
   ],
-  image: "/assets/img/new/out.jpeg"
+  image: "/assets/img/new/p3.jpg"
 };
 
 
@@ -66,10 +66,10 @@ const index = () => {
         <div id="smooth-content">
           <main>
             <HeroHomeFour data={mainData}/>
-            <HeroServiceDetails data={heroData} />
-            <div style={{marginTop:"5rem"}}>  
+            <div style={{marginTop:"0rem"}}>  
               <ServiceHomeThree {...service_content}/>
              </div>   
+             <HeroServiceDetails data={heroData} />
             <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
             <ServiceDetailsFaq />
             <AboutHomeFour />
