@@ -80,7 +80,7 @@ const AwardsHomeOne = ({style_2}: any) => {
                Why Choose Us?
               </div>
               <h2 className="cs_section_title anim_heading_title">
-                 One trusted name – <br></br> VDF Electrical.
+                 One trusted name – <br></br> VDF Group.
               </h2>
             </div>
           </div>

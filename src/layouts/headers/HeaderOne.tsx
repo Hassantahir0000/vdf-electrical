@@ -38,19 +38,19 @@ const menu_data: DataType[] = [
 	},
 	{
 		id: 3,
-		title: "Domestic Electrical",
+		title: "Domestic",
 		link: "/domestic-electrical",
 		has_dropdown: false,
 	},
 	{
 		id: 5,
-		title: "Commercial Electrical",
+		title: "Commercial",
 		link: "/commercial-electrical",
 		has_dropdown: false,
 	},
 		{
 		id: 6,
-		title: "Industrial Electrical",
+		title: "Industrial",
 		link: "/industrial-electrical",
 		has_dropdown: false,
 	},
@@ -190,11 +190,11 @@ const HeaderOne = () => {
 				<button className="cs_close" onClick={handleActive}></button>
 				<div className="cs_side_header_overlay"></div>
 				<div className="cs_side_header_in">
-					<Link className="cs_site_branding" href="/">
+					{/* <Link className="cs_site_branding" href="/">
 						<Image src={Logo_white} alt="Logo" />
-					</Link>
+					</Link> */}
 					<div className="row align-items-end">
-						<div className="col-7">
+						<div className="col-4">
 							<div className="cs_box_one">
 								<div className="cs_nav_black_section cs_font_changes">
 									<ul>
@@ -258,8 +258,8 @@ const HeaderOne = () => {
 
 									<hr className="mt-2 me-5 mb-2" />
 									<h2>
-										<a href="mailto:vdube282@gmail.com" className="cs_primary_font cs_text_btn"><span
-											className="cs_black">vdube282@gmail.com</span></a>
+										<a href="mailto:enquiries@vdfgroup.co.uk" className="cs_primary_font cs_text_btn"><span
+											className="cs_black">enquiries@vdfgroup.co.uk</span></a>
 									</h2>
 								</div>
 							</div>

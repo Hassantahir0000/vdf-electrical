@@ -44,7 +44,7 @@ const heroData = {
 
 const service_content = {
   sub_title: "Services",
-  title: "Exploring the Evolution of Domestic Electrical Services",
+  title: "Bringing Comfort Home with Professional Domestic Electrical Services",
   service_data: [
     { id: 1, title: "Complete Home Rewiring" },
     { id: 2, title: "Consumer Unit Replacement" },
@@ -53,7 +53,7 @@ const service_content = {
     { id: 5, title: "Electrical Testing" },
   ],
   notice_title: `Creating a Strong Brand Identity Through The Design`,
-  notice_des: `Welcome to our digital agency! We specialize in helping businesses like yours succeed. Welcome to our digital agency. We specialize in helping businesses.`,
+  notice_des: `Welcome to our digital agency! We specialise in helping businesses like yours succeed. Welcome to our digital agency. We specialise in helping businesses.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
 };
@@ -69,9 +69,9 @@ const index = () => {
           <main>
             <HeroHomeFour data={mainData}/>
               <ServiceHomeThree {...service_content}/>
-              <div style={{marginBottom:"6rem"}}>
+              {/* <div style={{marginBottom:"6rem"}}>
                 <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
-              </div>
+              </div> */}
              <HeroServiceDetails data={heroData} />
             <ServiceDetailsFaq />
             <AboutHomeFour />

@@ -25,13 +25,13 @@ const testimonial_data: DataType[] = [
     img: avatar_img,
     name: `Sandra Lewis`,
     location: `Glasgow, UK`,
-    des: `“We hired VDF Electrical for a commercial project and they exceeded our expectations. Everything was completed on time and to the highest standard. Great service!”`,
+    des: `“We hired VDF Group for a commercial project and they exceeded our expectations. Everything was completed on time and to the highest standard. Great service!”`,
   },
   {
     img: avatar_img,
     name: `Michael Fraser`,
     location: `Glasgow, UK`,
-    des: `“I’ve used VDF Electrical multiple times for both domestic and industrial work. They are always reliable, knowledgeable, and fairly priced. Wouldn’t go anywhere else.”`,
+    des: `“I’ve used VDF Group multiple times for both domestic and industrial work. They are always reliable, knowledgeable, and fairly priced. Wouldn’t go anywhere else.”`,
   },
 ]
 

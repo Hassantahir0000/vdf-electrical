@@ -17,13 +17,17 @@ import HeaderOne from '@/layouts/headers/HeaderOne';
 import VideoPopup from '@/components/modals/VideoPopup';
 import HeroHomeTwo from '@/components/hero/HeroHomeTwo';
 import HeroHomeFour from '@/components/hero/HeroHomeFour';
+import AboutHomeFour from '@/components/about/AboutHomeFour';
+import AboutHomeOne from '@/components/about/AboutHomeOne';
+import HeroHomeFive from '@/components/hero/HeroHomeFive';
+import HeroHomeThree from '@/components/hero/HeroHomeThree';
 
 
 
 
 
 // export const metadata = {
-//   title: "About VDF Electrical - Domestic, Commercial & Industrial Electricians, Glasgow",
+//   title: "About VDF Group - Domestic, Commercial & Industrial Electricians, Glasgow",
 // };
 
 const index = () => {
@@ -35,6 +39,7 @@ const index = () => {
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
+            <HeroHomeThree/>
             {/* <HeroHomeFour data={hero_data}/> */}
             <BannerAbout />
             {/* <VideoHomeOne style_2={true} setIsVideoOpen={setIsVideoOpen} /> */}

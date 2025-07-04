@@ -85,7 +85,7 @@ const DomesticElectrical = () => {
               <div className="cs_img_show_text cs_text_style_1">
                 <h4 className="cs_heading_text anim_heading_title">NAPIT APPROVED ELECTRICAL CONTRACTOR</h4>
                 <p className="cs_text_style_body">
-                 At VDF Electrical, we provide comprehensive domestic electrical 
+                 At VDF Group, we provide comprehensive domestic electrical 
                  services to homeowners across Glasgow and surrounding areas. Our 
                  NAPIT approved electricians deliver safe, reliable, and high-quality 
                  electrical solutions for your home. Get in touch with our team today, 
@@ -134,11 +134,11 @@ const DomesticElectrical = () => {
                     Solutions
                   </h4>
                   <p className="cs_text_style_body">
-                    Welcome to our digital agency! We specialize in helping businesses like yours
+                    Welcome to our digital agency! We specialise in helping businesses like yours
                     succeed online. From website design and development to digital marketing and adver
                     tising, we have the tools and expertise to elevate your online presence. Welcome to
                     our digital
-                    agency! We specialize in helping businesses like yours online. From website design
+                    agency! We specialise in helping businesses like yours online. From website design
                     and development to digital marketing and advertising, we have the tools and
                     expertise to elevate your online presence.
                   </p>

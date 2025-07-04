@@ -12,7 +12,7 @@ const BannerAbout = () => {
         <div className="cs_section_heading cs_style_1 cs_type_1">
           <div className="cs_section_heading_text">
             <h2 className="cs_section_title anim_text_writting">
-            How VDF Electrical is Empowering Homes & Businesses<br /> with Innovative Electrical Solutions
+            How  VDF Group is Empowering Homes & Businesses<br /> with Innovative Electrical Solutions
             </h2>
           </div>
           <div className="cs_section_heading_right">
@@ -24,7 +24,7 @@ const BannerAbout = () => {
                   <g fontSize="22.1px">
                     <text textAnchor="start">
                       <textPath className="coloring" href="#textPath" startOffset="0%">
-                         VDF Electrical -Domestic, Commercial & Industrial Electricians, Glasgow . &nbsp;
+                         VDF Group -Domestic, Commercial & Industrial Electricians, Glasgow . &nbsp;
                       </textPath>
                     </text>
                   </g>

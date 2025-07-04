@@ -10,7 +10,7 @@ import React from 'react';
 
 
 // export const metadata = {
-//   title: "Faq VDF Electrical - Domestic, Commercial & Industrial Electricians, Glasgow",
+//   title: "Faq VDF Group - Domestic, Commercial & Industrial Electricians, Glasgow",
 // };
 
 const index = () => {

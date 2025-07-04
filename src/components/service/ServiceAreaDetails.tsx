@@ -17,7 +17,7 @@ const ServiceAreaDetails = ({ service_data }: { service_data: DataType[] }) => {
               Specialization & Services
             </h4>
           <p className="cs_mp0 anim_text">
-            At VDF Electrical, we specialize in delivering high-quality electrical services across domestic, commercial, and industrial sectors. From installations and rewiring to fault finding and inspections, our certified electricians ensure safety, reliability, and compliance every step of the way.
+            At VDF Group, we specialise in delivering high-quality electrical services across domestic, commercial, and industrial sectors. From installations and rewiring to fault finding and inspections, our certified electricians ensure safety, reliability, and compliance every step of the way.
           </p>
           </div>
           <div className="cs_height_80 cs_height_lg_40"></div>

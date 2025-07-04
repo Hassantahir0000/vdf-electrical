@@ -16,14 +16,14 @@ const hero_slider: DataType[] = [
   {
     img: `/assets/img/new/p7.jpg`,
     sub_title: "Domestic, Commercial & Industrial Electricians",
-    title: "Welcome to VDF Electrical",
+    title: "Welcome to VDF Group",
     des: `We’re a NAPIT approved electrical contractor serving domestic, commercial and industrial clients throughout Glasgow and across Scotland.`
   },
   {
     img: `/assets/img/new/p3.jpg`,
     sub_title: "Team of Professionals",
     title: "Renewable Energy Solutions, Glasgow",
-    des: `Trusted, Qualified Electrical Contractor in Glasgow. VDF Electrical is powering Glasgow with safety and reliability.`
+    des: `Trusted, Qualified Electrical Contractor in Glasgow. VDF Group is powering Glasgow with safety and reliability.`
   },
 ]
 

@@ -44,7 +44,7 @@ const heroData = {
 
 const service_content = {
   sub_title: "Services",
-  title: "Exploring the Evolution of Industrial Electrical Services",
+  title: "Enhancing Efficiency with Tailored Industrial Electrical Solutions",
   service_data: [
     { id: 1, title: "3-Phase Power Installation" },
     { id: 2, title: "Renewable Energy Solutions" },
@@ -53,7 +53,7 @@ const service_content = {
     { id: 5, title: "Industrial Lighting" },
     { id: 6, title: "Machinery Installation & Wiring" },
   ],
-  notice_title: `Why VDF Electrical?`,
+  notice_title: `Why VDF Group?`,
   notice_des: `Our industrial team understands the critical nature of your operations. We work efficiently to minimize disruption and can schedule maintenance during planned shutdowns. All our industrial electrical work complies with the latest regulations and safety standards.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
@@ -70,9 +70,9 @@ const index = () => {
           <main>
             <HeroHomeFour data={mainData}/>
               <ServiceHomeThree {...service_content}/>
-              <div style={{marginBottom:"6rem"}}>
+              {/* <div style={{marginBottom:"6rem"}}>
                 <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
-              </div>
+              </div> */}
              <HeroServiceDetails data={heroData} />
             <ServiceDetailsFaq />
             <AboutHomeFour />

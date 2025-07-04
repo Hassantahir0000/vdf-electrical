@@ -35,7 +35,7 @@ const service_faq_content: DataType = {
     {
       id: 'Four',
       question: `Can you install renewable energy systems like solar panels?`,
-      answer: `Yes, we specialize in the design and installation of solar PV systems, battery storage, and other renewable energy solutions for both homes and businesses.`,
+      answer: `Yes, we specialise in the design and installation of solar PV systems, battery storage, and other renewable energy solutions for both homes and businesses.`,
     },
   ],
   title: `Frequently Asked Questions`,

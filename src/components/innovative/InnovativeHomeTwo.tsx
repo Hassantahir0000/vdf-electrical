@@ -17,7 +17,7 @@ interface DataType {
 
 const innovative_data: DataType = {
 	title_1: `Innovative Solutions for Modern Digital Needs`,
-	des_1: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and advertising,`,
+	des_1: `Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and advertising,`,
 	title_2: `Creating a Strong Brand Identity`,
 	des_2: `Welcome to our digital agency! We spec ialize in helping businesses like yours succeed Well come to our digital agency`,
 	features: [

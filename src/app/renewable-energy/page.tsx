@@ -44,13 +44,13 @@ const heroData = {
 
 const service_content = {
   sub_title: "Services",
-  title: "Exploring the Evolution of Renewable Energy Services",
+  title: "Leading the Charge with Innovative Renewable Energy Solutions",
   service_data: [
     { id: 1, title: "Electric Vehicle (EV) Chargers" },
     { id: 2, title: "	Air Source Heat Pumps" },
     { id: 3, title: "Solar Panels" },
   ],
-  notice_title: `Why VDF Electrical?`,
+  notice_title: `Why VDF Group?`,
   notice_des: `VDF Electrical, we’re committed to helping Glasgow and Scotland transition to a greener future. Our team of highly skilled renewables electricians specialises in the installation and maintenance of renewable energy systems in the domestic, commercial and industrial sectors. Contact our team today to discuss your requirements.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
@@ -67,9 +67,9 @@ const index = () => {
           <main>
             <HeroHomeFour data={mainData}/>
               <ServiceHomeThree {...service_content}/>
-              <div style={{marginBottom:"6rem"}}>
+              {/* <div style={{marginBottom:"6rem"}}>
                 <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
-              </div>
+              </div> */}
              <HeroServiceDetails data={heroData} />
             <ServiceDetailsFaq />
             <AboutHomeFour />

@@ -14,9 +14,9 @@ interface DataType {
   des: string;
 }
 const about_content: DataType = {
-  subtitle: `About VDF Electrical`,
+  subtitle: `About VDF Group`,
   title: `Reliable Electrical Services for Homes, Businesses & Industries`,
-  des: `At VDF Electrical, we take pride in delivering safe, efficient, and fully certified electrical services across Glasgow and beyond. Whether it's domestic rewiring, commercial installations, or industrial maintenance, our experienced team is committed to quality workmanship and exceptional customer care. With NAPIT approval and a focus on safety, we're here to power your world with confidence.`,
+  des: `At VDF Group, we take pride in delivering safe, efficient, and fully certified electrical services across Glasgow and beyond. Whether it's domestic rewiring, commercial installations, or industrial maintenance, our experienced team is committed to quality workmanship and exceptional customer care. With NAPIT approval and a focus on safety, we're here to power your world with confidence.`,
 }
 
 const { subtitle, title, des } = about_content

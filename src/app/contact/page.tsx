@@ -7,7 +7,7 @@ import HeaderOne from '@/layouts/headers/HeaderOne';
 import React from 'react';
 
 // export const metadata = {
-//   title: "Contact VDF Electrical - Domestic, Commercial & Industrial Electricians, Glasgow",  
+//   title: "Contact VDF Group - Domestic, Commercial & Industrial Electricians, Glasgow",  
 // };
 
 

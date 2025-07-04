@@ -44,7 +44,7 @@ Contact our team today to discuss your requirements.`,
 
 const service_content = {
   sub_title: "Services",
-  title: "Exploring the Evolution of Commercial Electrical Services",
+  title: "Powering Businesses with Expert Commercial Electrical Services",
   service_data: [
     { id: 1, title: "Renewable Energy Solutions" },
     { id: 2, title: "Office Lighting Solutions" },
@@ -53,7 +53,7 @@ const service_content = {
     { id: 5, title: "Data Cabling & Networking" },
     { id: 6, title: "Electrical Testing & Inspections" },
   ],
-  notice_title: `Why VDF Electrical?`,
+  notice_title: `Why VDF Group?`,
   notice_des: `Our commercial team understands that minimal disruption to your operations is essential. We work around your business hours and provide clear timelines for all projects. All our work is fully compliant with current regulations, giving you peace of mind.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
@@ -70,9 +70,9 @@ const index = () => {
           <main>
             <HeroHomeFour data={mainData}/>
               <ServiceHomeThree {...service_content}/>
-              <div style={{marginBottom:"6rem"}}>
+              {/* <div style={{marginBottom:"6rem"}}>
                 <DetailsBanner imageOne={service_slider_1} imageTwo={service_slider_2} />
-              </div>
+              </div> */}
              <HeroServiceDetails data={heroData} />
             <ServiceDetailsFaq />
             <AboutHomeFour />

@@ -118,32 +118,32 @@ export default HeroService;
 //   {
 //     id: 1,
 //     title: "Application Development",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 //   {
 //     id: 2,
 //     title: "Web Development",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 //   {
 //     id: 3,
 //     title: "Digital Services",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 //   {
 //     id: 4,
 //     title: "Digital Product Design",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 //   {
 //     id: 5,
 //     title: "Digital Marketing",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 //   {
 //     id: 6,
 //     title: "IOS App Development",
-//     description: "Welcome to our digital agency We specialize in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
+//     description: "Welcome to our digital agency We specialise in helping businesses like yours succeed online. From website design and development to digital marketing agency.",
 //   },
 
 // ]

@@ -17,25 +17,25 @@ const service_data: DataType[] = [
     id: 1,
     count: 99,
     title: `Research & Analyze`,
-    des: `Welcome to our digital agency We specialize in helping your business most`
+    des: `Welcome to our digital agency We specialise in helping your business most`
   },
   {
     id: 2,
     count: 85,
     title: `Wireframing`,
-    des: `Welcome to our digital agency We specialize in helping your business most`
+    des: `Welcome to our digital agency We specialise in helping your business most`
   },
   {
     id: 3,
     count: 80,
     title: `UI Design`,
-    des: `Welcome to our digital agency We specialize in helping your business most`
+    des: `Welcome to our digital agency We specialise in helping your business most`
   },
   {
     id: 4,
     count: 99,
     title: `Problem Solving`,
-    des: `Welcome to our digital agency We specialize in helping your business most`
+    des: `Welcome to our digital agency We specialise in helping your business most`
   },
 ]
 

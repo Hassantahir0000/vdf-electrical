@@ -33,19 +33,19 @@ const menu_data: DataType[] = [
 	},
 	{
 		id: 3,
-		title: "Domestic Electrical",
+		title: "Domestic",
 		link: "/domestic-electrical",
 		has_dropdown: false,
 	},
 	{
 		id: 5,
-		title: "Commercial Electrical",
+		title: "Commercial",
 		link: "/commercial-electrical",
 		has_dropdown: false,
 	},
 		{
 		id: 6,
-		title: "Industrial Electrical",
+		title: "Industrial",
 		link: "/industrial-electrical",
 		has_dropdown: false,
 	},

@@ -22,7 +22,7 @@ interface DataType {
 const feature_data: DataType = {
   subtitle: `Features`,
   title: `Elevating Your Business to the Next Level Expertise in Startup Agency Services`,
-  des: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools. From website design and development to digital marketing and advertising, we have the toolsis. From website design and development. Welcome to our digital agency.`,
+  des: `Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools. From website design and development to digital marketing and advertising, we have the toolsis. From website design and development. Welcome to our digital agency.`,
   boxtitle: `Unique Design`,
   box_des_1: `Award Winning Quality`,
   box_des_2: `Digital of the day Mobile app excellence`,

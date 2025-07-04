@@ -26,9 +26,9 @@ const HeroHomeFour = ({ data }: { data: HeroDataType }) => {
           </div>
           <div className="container">
             <div className="cs_hero_text">
-              <h1 className="cs_hero_title anim_banner_text_left">{title_1}</h1>
-              <h1 className="cs_hero_subTitle anim_banner_text_right">{title_2}</h1>
-              <p className="cs_hero_p cs_subtext anim_subtext">{des}</p>
+              <h1 style={{color:"#0C0D81"}} className="cs_hero_title anim_banner_text_left">{title_1}</h1>
+              <h1 style={{color:"#E03A3E"}}  className="cs_hero_subTitle anim_banner_text_right">{title_2}</h1>
+              {/* <p className="cs_hero_p cs_subtext anim_subtext">{des}</p> */}
             </div>
           </div>
         </div>

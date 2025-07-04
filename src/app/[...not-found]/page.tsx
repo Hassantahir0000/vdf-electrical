@@ -6,7 +6,7 @@ import Wrapper from '@/layouts/Wrapper';
 import Error from '@/components/error';
 
 // export const metadata = {
-//   title: "404 error || VDF Electrical - Domestic, Commercial & Industrial Electricians, Glasgow",
+//   title: "404 error || VDF Group - Domestic, Commercial & Industrial Electricians, Glasgow",
 // };
 
 

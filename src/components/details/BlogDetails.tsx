@@ -36,17 +36,17 @@ const blog_details_content: DataType = {
     { title: `Viewes`, des: `2 Min Read` },
   ],
   title_2: `How a Creative Agency Can Help?`,
-  des_1: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialize in helping businesses like yours online. From website design and development to digital marketing and advertising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialize in helping businesses like yours succeed online.`,
+  des_1: `Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialise in helping businesses like yours online. From website design and development to digital marketing and advertising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialise in helping businesses like yours succeed online.`,
   features: [
     `Design Welcome to our digital agency!`,
     `Dev online. From website design Implementation world of digital.`,
     `Implementation evolving world of digital Design Welcome to our digital agency!`,
     `Launch growth and reach your goals. Implementation evolving world of digital.`,
   ],
-  des_2: `We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialize in helping businesses like yours online. From website design and development to digital marketing and advertising, we have the tools and expertise to elevate your online presence.`,
-  qute: `“Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the to ols and expertise to elevate your online presence. Welcome to our digital agency Welcome to our digital agency”`,
+  des_2: `We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence. Welcome to our digital agency! We specialise in helping businesses like yours online. From website design and development to digital marketing and advertising, we have the tools and expertise to elevate your online presence.`,
+  qute: `“Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the to ols and expertise to elevate your online presence. Welcome to our digital agency Welcome to our digital agency”`,
   writer: `Andrew Jackson`,
-  des_3: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence.`,
+  des_3: `Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and adver tising, we have the tools and expertise to elevate your online presence.`,
 
 }
 

@@ -12,9 +12,9 @@ type DataType = {
 }
 
 const hero_data: DataType = {
-  title_1: `Creative`,
-  title_2: `Design Studio`,
-  des: `Welcome to our digital agency! We specialize in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools.`,
+  title_1: `About`,
+  title_2: `VDF Group`,
+  des: `Welcome to our digital agency! We specialise in helping businesses like yours succeed online. From website design and development to digital marketing and advertising, we have the tools.`,
   links: [
     { title: 'Facebook'},
     { title: 'Behance'},
@@ -28,9 +28,21 @@ const HeroHomeThree = () => {
     <>
       <section>
         <div className="cs_hero cs_style2">
-          <div className="cs_hero_bg cs_bg cs_parallax_bg" style={{ backgroundImage: 'url(/assets/img/design_banner.jpg)' }}></div>
+          <div className="cs_hero_bg cs_bg cs_parallax_bg" 
+          style={{
+            backgroundImage: 'url(/assets/img/new/about.jpeg)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            filter: 'blur(12px)',
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            zIndex: 1,
+          }}></div>
           <div className="textupdowns">
-            <div className="cs_left_text">
+            {/* <div className="cs_left_text">
               <span className="cs_arrow">
                 <svg width="19" height="13" viewBox="0 0 19 13" fill="none"
                   xmlns="http://www.w3.org/2000/svg">
@@ -39,16 +51,16 @@ const HeroHomeThree = () => {
                     fill="currentColor"></path>
                 </svg></span>
               <p>SCROLL DOWN</p>
-            </div>
+            </div> */}
           </div>
 
           <div className="container">
             <div className="cs_hero_text">
               <div className="anim_banner_text_left">
-                <h1 className="cs_hero_title cs_hero_title_lg">{title_1}</h1>
+                <h1 style={{color:"#E03A3E"}} className="cs_hero_title cs_hero_title_lg">{title_1}</h1>
               </div>
               <div className="anim_banner_text_right">
-                <h1 className="cs_hero_title cs_hero_title_lg">{title_2}</h1>
+                <h1 style={{color:"#0C0D81"}}  className="cs_hero_title cs_hero_title_lg">{title_2}</h1>
               </div>
               <div className="cs_height_50 cs_height_lg_50"></div>
               <div className="cs_hero_subtitle">
@@ -57,7 +69,7 @@ const HeroHomeThree = () => {
                     {des}
                   </p>
                 </div>
-                <div className="cs_section_heading_right cs_btn_anim">
+                {/* <div className="cs_section_heading_right cs_btn_anim">
                   <Link href="/portfolio" className="cs_btn cs_style_1 cs_color_1">
                     <span>View Project</span>
                     <svg width="19" height="13" viewBox="0 0 19 13" fill="none"
@@ -67,15 +79,15 @@ const HeroHomeThree = () => {
                         fill="currentColor"></path>
                     </svg>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
-          <div className="cs_right_text">
+          {/* <div className="cs_right_text">
             {links.map((link) => (
               <p className="colorChanegs t1">{link.title}</p>
             ))}
-          </div>
+          </div> */}
         </div>
       </section>
       <div className="cs_height_150 cs_height_lg_0"></div>
