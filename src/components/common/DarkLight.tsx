@@ -38,7 +38,7 @@ const DarkLight = () => {
   return (
     <>
       <div className="cs_toggle">
-        <div className="setting_mode" style={{ right: open ? '120px' : '0px' }}>
+        {/* <div className="setting_mode" style={{ right: open ? '120px' : '0px' }}>
           <button id="open" onClick={openDarkLight} style={{ display: open ? 'none' : 'block' }}>
             <Image src={brightnes} alt="icon-here" />
           </button>
@@ -62,7 +62,7 @@ const DarkLight = () => {
           >
             Dark
           </button>
-        </div>
+        </div> */}
       </div>
     </>
   );

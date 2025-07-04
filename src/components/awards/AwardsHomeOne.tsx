@@ -88,7 +88,7 @@ const AwardsHomeOne = ({style_2}: any) => {
           <div className="cs_card_2_list">
             {award_data.map((item, i) =>
               <div key={i}
-                onMouseEnter={() => handleMouseEnter(i)}
+                // onMouseEnter={() => handleMouseEnter(i)}
                 className={`cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns ${activeTab === i ? 'active' : ''}`}>
                 <div className="cs_card_left">
                   <div className="cs_card_logo">
@@ -104,9 +104,9 @@ const AwardsHomeOne = ({style_2}: any) => {
                 {/* <div className="cs_card_right">
                   <h2 className="cs_card_brand">{item.brand}</h2>
                 </div> */}
-                <div className="cs_card_hover_img">
+                {/* <div className="cs_card_hover_img">
                   <Image src={item.img} alt="Thumb" />
-                </div>
+                </div> */}
               </div>
             )}
 
