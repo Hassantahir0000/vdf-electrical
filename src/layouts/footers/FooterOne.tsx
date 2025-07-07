@@ -20,7 +20,7 @@ const footer_data: DataType = {
   email: `enquiries@vdfgroup.co.uk`,
   phone: `0141 459 1081`,
   location: `46 JOHN ST TORONTO ON M5V 3W2`,
-  footer_info: `Welcome to our digital agency We specialise in helping business most like yours succeed online. From website design and development.`,
+  footer_info: `VDF Group is your trusted partner for professional electrical services across domestic, commercial, industrial, and renewable sectors. We’re committed to delivering safe, efficient, and future-ready solutions that power homes and businesses across Scotland.`,
   links: [
     { title: `HOME`, link: "/" },
     { title: `ABOUT`, link: "/about" },
@@ -30,6 +30,7 @@ const footer_data: DataType = {
     { title: `CONTACT US`, link: "/contact" },
   ]
 }
+
 const { footer_info, email, links, location, phone } = footer_data
 
 const FooterOne = () => {

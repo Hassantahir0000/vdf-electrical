@@ -53,8 +53,8 @@ const service_content = {
     { id: 5, title: "Data Cabling & Networking" },
     { id: 6, title: "Electrical Testing & Inspections" },
   ],
-  notice_title: `Why VDF Group?`,
-  notice_des: `Our commercial team understands that minimal disruption to your operations is essential. We work around your business hours and provide clear timelines for all projects. All our work is fully compliant with current regulations, giving you peace of mind.`,
+  notice_title: `Trusted Electrical Solutions for Modern Businesses`,
+  notice_des: `At VDF Electrical, we understand the demands of commercial environments. Our expert team ensures minimal disruption, regulatory compliance, and high-performance electrical systems that keep your business running smoothly. Partner with us for safe, scalable, and future-ready solutions.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
 };

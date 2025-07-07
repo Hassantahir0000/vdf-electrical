@@ -53,8 +53,8 @@ const service_content = {
     { id: 5, title: "Industrial Lighting" },
     { id: 6, title: "Machinery Installation & Wiring" },
   ],
-  notice_title: `Why VDF Group?`,
-  notice_des: `Our industrial team understands the critical nature of your operations. We work efficiently to minimize disruption and can schedule maintenance during planned shutdowns. All our industrial electrical work complies with the latest regulations and safety standards.`,
+  notice_title: `Reliable Electrical Infrastructure for Industrial Demands`,
+  notice_des: `In industrial environments, downtime is costly. That’s why VDF Electrical provides robust and responsive electrical services designed to support uninterrupted operations. From machinery wiring to power distribution upgrades, we ensure your facility runs at peak efficiency — all while meeting strict compliance and safety standards.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
 };

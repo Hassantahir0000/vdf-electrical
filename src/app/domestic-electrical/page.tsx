@@ -31,7 +31,7 @@ const mainData = {
 
 const heroData = {
   title: "Domestic Electrical",
-  description: `Professional domestic electrician serving Glasgow and surrounding areas. From wiring and lighting to fuse board upgrades, we ensure safe and reliable electrical solutions for your home.`,
+  description: `Delivering safe, high-quality electrical services tailored to the needs of every home in Glasgow and surrounding areas. Whether it’s full rewiring, new installations, or fuse board upgrades, our certified electricians provide dependable and compliant solutions. We pride ourselves on attention to detail, minimal disruption, and long-lasting results. No job is too big or small — we’re here to power your home with confidence.`,
   features: [
     `Full and partial house rewiring services.`,
     `Installation of lighting, sockets, and appliances.`,
@@ -40,6 +40,7 @@ const heroData = {
   ],
   image: "/assets/img/new/out.jpeg"
 };
+
 
 
 const service_content = {
@@ -52,8 +53,8 @@ const service_content = {
     { id: 4, title: "Lighting Installation" },
     { id: 5, title: "Electrical Testing" },
   ],
-  notice_title: `Creating a Strong Brand Identity Through The Design`,
-  notice_des: `Welcome to our digital agency! We specialise in helping businesses like yours succeed. Welcome to our digital agency. We specialise in helping businesses.`,
+  notice_title: `Why Choose Us for Your Home's Electrical Needs?`,
+  notice_des: `We understand the importance of safety, reliability, and efficiency when it comes to domestic electrical work. Our qualified electricians deliver high-quality service tailored to your home's needs, ensuring peace of mind for you and your family.`,
   servicesImage: services_exploring,
   iconImage: sound_box_icon,
 };
